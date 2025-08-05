@@ -1,1 +1,2 @@
 # SimonSaysGame
+Developed an interactive memory-based game inspired by the classic “Simon Says”. The game features four colored buttons (red, green, blue, yellow). In each round, a random color is flashed and the player must repeat the sequence by clicking the colors in the correct order. With each successful round, the sequence increases in length, challenging the user's memory. Implemented visual and audio feedback, game state management, and user interaction using vanilla JavaScript.
